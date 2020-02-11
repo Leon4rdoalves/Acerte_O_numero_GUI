@@ -1,7 +1,7 @@
 # Acerte o número.
 Joguinho simples, onde o sistema gera um número randômico entre 1 e 50. Cabe ao jogador, acertar qual foi este número. O sistema vai dando dicas de proximidade a cada tentativa e ao final, mostra quantas foram necessárias para acertar.
 
-## Construido com:
+## Construído com:
 
 #### IDE
 * [Pycharm](https://www.jetbrains.com/pycharm/download/#section=linux) - Pycharm
